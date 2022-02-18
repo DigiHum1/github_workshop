@@ -2,6 +2,4 @@
 
 My research
 
-Analyze
-
-Data
+ [my data](data.txt) | [my_code](analyze.py)
